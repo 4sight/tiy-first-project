@@ -30,3 +30,7 @@
     	margin-right: auto;
     	border: 5px solid black;
 	}
+	.text {
+		color: #727272;
+		font-weight: bold;
+	}
