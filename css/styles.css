@@ -10,6 +10,13 @@
 		color: #727272;
 		text-shadow: 3px 3px black;
 	}
+		h2 {
+		font-family: "Helvetica", Times, sans-serif;
+		text-align: center;
+		font-size: 32px;
+		color: #727272;
+		text-shadow: 2px px black;
+	}
 	a {
 		color: #727272;
 		text-decoration: none;
